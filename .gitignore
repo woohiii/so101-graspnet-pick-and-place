@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+*.npy
+*.npz
+*.json
+!src/vision_pick_place/so101_graspnet_pick_and_place/config.example.json
+captures/
+calibration/
+*.log

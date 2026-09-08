@@ -1,0 +1,1 @@
+../task_red_cube_to_bin/mobileclip2_b.ts
